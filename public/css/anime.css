@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Wind+Song&display=swap');
+body {
+    padding: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Wind Song', cursive;
+    background-image: url('../css/images/bardku.png'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+header h1 {
+    color: #333;
+    font-size: 32px;
+    margin: 0;
+}
+
+.anime-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.anime-list li {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.anime-color-0 {
+    background-color: #f8d7da;
+}
+
+.anime-color-1 {
+    background-color: #d4edda;
+}
+
+.anime-color-2 {
+    background-color: #d1ecf1;
+}
+
+.anime-color-3 {
+    background-color: #fff3cd;
+}
+
+.anime-details {
+    margin-top: 10px;
+    font-size: 0.9em;
+}
+
+a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #ffffff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+a:hover {
+    background-color: #45a049;
+}
+
+.anime-image img {
+    width: 100%; /* Ajustar el tamaño de las imágenes */
+    height: auto; /* Mantener la proporción de las imágenes */
+    margin-top: 10px; /* Espacio entre el texto y la imagen */
+}

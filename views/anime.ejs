@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/css/anime.css">
+        <title>Anime World</title>
+    </head>
+    <body>
+        <div class="content">
+            <!-- Bloque del Welcome -->
+            <div class="welcome-section">
+                <h1>Welcome to Anime World</h1>
+                <p>
+                    Dive into the vibrant universe of anime! Follow <a href="https://dragonball.fandom.com/wiki/Dragon_Ball" target="_blank">Dragon Ball</a> 
+                    as Goku and his friends embark on an epic journey to collect the Dragon Balls. Prefer supernatural battles? Check out 
+                    <a href="https://bleach.fandom.com/wiki/Bleach_Wiki" target="_blank">Bleach</a>, where Ichigo Kurosaki takes on the role of a Soul Reaper. 
+                    For those who love ninja adventures, join <a href="https://naruto.fandom.com/wiki/Narutopedia" target="_blank">Naruto</a> as he strives to become the Hokage of his village. 
+                    And for a broader exploration of anime, visit the <a href="https://www.fandom.com/topics/anime" target="_blank">Anime section on Fandom</a>. 
+                    The world of anime is vast and waiting for you!
+                </p>
+            </div>
+        
+            <a href="https://www1.otakustv.com/animes">Visita Otakus.tv</a>
+        </div>
+            </div>
+            
+    </body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/anime.css">
+    <title>Anime List</title>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Anime World</title>
+        <style>
+            * {
+                margin: 3px;
+                padding: 0;
+                box-sizing: box;
+            }
+            body {
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                line-height: 1.8;
+                color: #2c3e50;
+                height: 100vh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            .content {
+                max-width: 800px;
+                background: #ffffff;
+                border-radius: 120px;
+                padding: 2rem;
+                box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+                text-align: center;
+            }
+            a {
+                color: #3498db;
+                text-decoration: none;
+                font-weight: 600;
+            }
+            a:hover {
+                color: #2980b9;
+                text-decoration: underline;
+            }
+            h1 {
+                font-size: 2.5rem;
+                margin-bottom: 1rem;
+                color: #34495e;
+            }
+            p {
+                font-size: 1.2rem;
+            }
+        </style>
+    </head>
+
+    <div class="container">
+        <h1>Anime List</h1>
+        <div class="anime-list">
+            <% animes.forEach((anime, index) => { %>
+                <div class="anime-item anime-color-<%= index % 4 %>">
+                    <strong><%= anime.Title %></strong>
+                    <p><%= anime.Synopsis %></p>
+                    <div class="anime-image">
+                        <img src="<%= anime.Image %>" alt="<%= anime.Title %> ../images" />
+                        
+                    </div>
+                </div>
+                <hr>
+            <% }); %>
+</body>
+</html>
