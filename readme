@@ -13,3 +13,5 @@ a chain is only as strong as its weakest link
 
 There are keys in the login folder that you must use to find a password
 the keys are part of a link and they are marked with a number at the beggining %1 then %2 then %3 and at last %4
+
+run the web page with node app.js
