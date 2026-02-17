@@ -94,4 +94,7 @@ INSERT INTO users (username, password)
 VALUES ('Hjorvar', 1234);
 
 INSERT INTO users (username, password)
-VALUES ('Rachidi', 'uiojkl');
+VALUES ('Rachidi', 'a chain is only as strong as its weakest link');
+UPDATE users 
+SET password = 'a chain is only as strong as its weakest link' 
+WHERE username = 'Rachidi';

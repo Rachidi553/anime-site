@@ -18,6 +18,7 @@ router.post('/', (req, res) => {
         } else {
             res.redirect('/login'); // Redirige de nuevo a la página de inicio de sesión si las credenciales son incorrectas
         }
+    
     });
 });
 

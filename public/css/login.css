@@ -4,7 +4,7 @@ body {
     align-items: cover;
     height: 100vh;
     margin: 0;
-    font-family: Arial, sans-serif;
+    font-family: wingdings, sans-serif;
     background-image: url('../css/images/pro.png'); /* Asegúrate de cambiar esta ruta a tu imagen de fondo */
     background-size: cover;
     background-repeat: no-repeat;

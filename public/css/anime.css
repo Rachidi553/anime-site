@@ -6,12 +6,13 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    font-family: 'Wind Song', cursive;
+    font-family: Wingdings, sans-serif;
     background-image: url('../css/images/bardku.png'); 
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
 
 .container {
     width: 90%;
