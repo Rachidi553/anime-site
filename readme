@@ -1,33 +1,13 @@
-*----------------------------------english------------------------------------*
+password -> its a small poem, which seems to be unrelated but some highlighter
+letters make out a word that will be the actual password for a file containing 
+clues for the other flags, while its a waste of time if they dont figure it out,
+the poem is then turned to morse code, the morse code mp3 is then turned to base 64 then the 
+link to it is sliced into pieces there will be a hint to find them as all of them and their 
+order will be marked in the following matter.
+od ot gnihton sah siht.
 
-My name is Ismael and ive been working in this webpage since i saw i had to do a web page jaja...
-ok lets be serious.
-Ive been having a lot of trouble making this web page.
-And it may look like its not much. But the thing is ive been learning how to make all this stuff while working in the webpage.
-i couldnt show the images inside the table of "Anime list" because even after working all day just to show some pictures...
-I burned up... I will learn how to do that later. but I will say everything that works so far.
+-------------------------------------------------------------------------------------------------------------
+a chain is only as strong as its weakest link
 
-First the login: Pretty simple, just put the username and password and you can loggin.
-only "Hjorvar" and "Rachidi" can loggin... I would like to add a sign in too, but ive already wasted to much time and i was supposed to hand this project in the 6 of december.
-
-Second is the web page: Appart from the images inside the table, everything work as expected. I also added some links to Anime Fanbox and otakus.tv
-The links also have "interactions" like.... uuuh, it glows green!... and thats it...
-Well, I also linked the web page i wach anime. And i must say i had fun making this web page. 
-Im sure i could do better now cause i did waste a lot of time learning how html works and a lot of things that are necesary to make the web page work. BUT it should not be seen as a waste of time cause i did learn something from this.
-
-*Note for Hjorvard:* Pls remember me to ask you how can I make the images be shown inside the table.
-
-Well thats all. Thanks!!
-
-
-*---------------------------------------icelandic----------------------------------------*
-
-Ég heiti Ismael og ég hef verið að vinna að þessari vefsíðu síðan ég sá að ég þurfti að búa til vefsíðu, haha... Jæja, við skulum vera alvarleg. Ég hef átt í miklum vandræðum með að búa til þessa vefsíðu. Og það kann að líta út fyrir að það sé ekki mikið. En málið er að ég hef verið að læra hvernig á að búa til þetta allt saman á meðan ég hef verið að vinna í vefsíðunni. Ég gat ekki sýnt myndirnar innan töflunnar „Anime listi“ því jafnvel eftir að hafa unnið alla daginn bara til að sýna myndir... Ég brenndi mig út... Ég mun læra hvernig á að gera það síðar, en ég mun segja allt sem virkar hingað til.
-
-Fyrst login: Frekar einfalt, bara sláðu inn notendanafn og lykilorð og þú getur skráð þig inn. Bara „Hjorvar“ og „Rachidi“ geta skráð sig inn... Mig langar að bæta við skráningu líka, en ég hef þegar sóað of miklum tíma og ég átti að skila þessu verkefni 6. desember.
-
-Í öðru lagi er vefsíðan: Fyrir utan myndirnar innan töflunnar, virkar allt eins og búist var við. Ég bætti líka við nokkrum tenglum við Anime Fanbox og otakus.tv Tenglarnir hafa einnig „viðbrögð“ eins og... uuuh, það lýsir grænt!... og það er það... Jæja, ég tengdi líka við vefsíðuna sem ég horfi á anime. Og ég verð að segja að ég hafði gaman af því að búa til þessa vefsíðu. Ég er viss um að ég gæti gert betur núna því ég eyddi miklum tíma í að læra hvernig HTML virkar og margt sem er nauðsynlegt til að vefsíðan virki. EN það ætti ekki að líta út fyrir að hafa verið sóun á tíma því ég lærði eitthvað af þessu.
-
-Athugið fyrir Hjorvar: Vinsamlegast minnist á að spyrja mig hvernig ég get látið myndirnar birtast innan töflunnar.
-
-Jæja, þetta var allt. Takk!!
+find the keys around the webpage to find the link.
+the keys are part of a link and they are marked with a number at the beggining %1 then %2 then %3 and at last %4
